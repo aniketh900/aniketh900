@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniketh900
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in designing part for vlsi domain
+- 🌱 Completed learning verilog and digital logic designs
+- 💞️ I’m looking for an internship 
 - 📫 How to reach me: 23211a0421@bvrit.ac.in
 
 <!---
