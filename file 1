@@ -1,1 +1,13 @@
-
+module pulsetracer(clk,noise, y);
+  input  clk,noise;
+  output reg y;
+  reg u,v,w;
+  always@( posedge clk) begin
+     u<=noise;
+     v<=u;
+     w<=v;
+     y<=v&~w;
+     end
+     
+  
+endmodule
